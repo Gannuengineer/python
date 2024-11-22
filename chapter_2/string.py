@@ -40,3 +40,6 @@ str[6] = "S"
 # output error
 
 
+
+
+
